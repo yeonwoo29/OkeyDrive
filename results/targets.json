@@ -1,0 +1,10 @@
+{
+  "dataset": "nuScenes",
+  "split": "official_full_validation",
+  "planning_horizon_seconds": 3.0,
+  "waypoint_interval_seconds": 0.5,
+  "waypoint_count": 6,
+  "average_planning_l2_meters_max": 0.51,
+  "average_collision_rate_ratio_max": 0.0005,
+  "status": "research_target_not_a_measurement"
+}

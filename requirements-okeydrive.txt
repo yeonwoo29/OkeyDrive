@@ -1,0 +1,8 @@
+# Install the matching PyTorch/CUDA build before this file.
+-r requirement.txt
+mmcv-full==1.6.0
+diffusers==0.20.2
+transformers==4.38.2
+huggingface-hub==0.25.2
+mamba-ssm==1.2.0.post1
+pytest==7.4.4

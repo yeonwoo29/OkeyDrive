@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/hustvl/DiffusionDrive.git",
+  "branch": "nusc",
+  "commit": "ae54fd87b32b3762f20e63ffd0af91d343cade85",
+  "license_file": "LICENSE",
+  "local_changes_preserved": true
+}
